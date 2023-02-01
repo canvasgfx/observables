@@ -1,6 +1,6 @@
 {
   "name": "@canvasgfx/observables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular library that contains handy rxjs operators.",
   "author": "reactgular.com",
   "homepage": "https://github.com/canvasgfx/observables",
@@ -49,7 +49,7 @@
     "rollup": "^1.21.2",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "rxjs": "^7.8.0",
+    "rxjs": "^6.0.0",
     "rxjs-marbles": "^5.0.3",
     "ts-jest": "^24.0.2",
     "tslint": "^5.19.0",
